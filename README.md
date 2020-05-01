@@ -24,8 +24,8 @@ number of likes, comments and the direct link for the publication;
 May be necessary for some functions:
 * [Pandas](https://pandas.pydata.org/)
 * [Requests](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html)
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Covid](https://pypi.org/project/covid/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Covid](https://pypi.org/project/covid/)
 
 2) Put your instagram's username and password on the code:
 ```Python
